@@ -1,1 +1,2 @@
-# portfolio
+# Jarod Shelton
+Game Developer
